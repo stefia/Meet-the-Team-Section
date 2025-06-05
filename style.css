@@ -65,12 +65,15 @@ body {
 
 .team {
     margin: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .team__members-list {
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
+    align-items: center;
     background-color: #F3F4F6;
     background-image: url(resources/Background_decor@2x.png);
     background-repeat: no-repeat;
