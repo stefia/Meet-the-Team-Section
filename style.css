@@ -16,7 +16,7 @@ body {
     font-weight: 500;
 }
 
-.text-h3 {
+.text--h2 {
     font-size: 1.25rem;
     font-weight: 600;
 }
@@ -39,7 +39,7 @@ body {
     color: #394150;
 }
 
-.text-white {
+.text--white {
     color: #fff;
 }
 
