@@ -76,6 +76,7 @@ body {
     background-repeat: no-repeat;
     border-radius: 20px;
     overflow: hidden;
+    max-width: 70.9375rem;
 }
 
 .team__member {
@@ -135,7 +136,7 @@ body {
     align-items: flex-end;
     padding: 230px 0 24px 24px;
     gap: 5px;
-    width: 284px;
+    width: 283px;
     height: 288px;
 }
 
