@@ -164,7 +164,7 @@ body {
 
 @media (max-width: 640px) { 
     .team__promo {
-        padding-bottom: 100px;
+        padding-bottom: 85px;
     }
     .team__member,
     .team__more {
